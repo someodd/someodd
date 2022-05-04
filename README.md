@@ -1,6 +1,6 @@
 # 你好, I'm someodd!
 
-Haskell developer.
+Haskell and open source developer.
 
 ## On the web
 
