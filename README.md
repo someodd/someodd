@@ -1,4 +1,4 @@
-# 你好, I'm someodd!
+# I'm someodd!
 
 Haskell and open source developer.
 
