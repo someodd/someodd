@@ -1,4 +1,4 @@
-I'm looking for work! Reach out: hi@someodd.zip
+# I'm looking for work! Reach out: hi@someodd.zip
 
 I'm a Haskell enthusiast who has a hobby interest in [the Gopher Protocol](https://gopher.mills.io/gopherproject.org).
 
